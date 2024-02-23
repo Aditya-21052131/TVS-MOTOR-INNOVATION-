@@ -1,7 +1,71 @@
 Team Details
+ NAME - ADITYA KUMAR
+ COLLEGE - KALINGA INSTITUTE OF INDUSTRIAL TECHNOLOGY,BHUBANESHWAR
+ TEAM NAME - ENDEVAROUS
+
 ● Problem Statement Analysis
+->A cost-effective, scalable device proposed to enhance dealership experience, provide clear features information,
+  ensure transparency about price, availability, and offers, and reduce manpower.
+
 ● Proposed Solution & Implementation Plan
+-> Proposed Solution: Modular Device System for TVS Motor Dealerships
+
+  Goal: Enhance customer experience, streamline operations, and improve transparency in TVS dealerships.
+  Components:
+  Primary Device: Affordable tablets (e.g., Google Nest Hub Max, Amazon Echo Show 10) installed throughout 
+  showrooms.
+  Secondary Devices:
+  Limited number of AR glasses: Used by sales staff to showcase specific features in an immersive way.
+  Optional VR headset station: For high-end models, offering a virtual tour experience.
+
+Functionalities:
+     Primary Device:
+i.  360° Product Views: High-resolution images for virtual exploration.
+ii. Interactive Features: Infographics, animations explaining technical specifications.
+iii.Real-time Price & Availability: Live updates from dealership inventory and pricing systems.
+iv. Offers & Promotions: Prominent display of ongoing deals and financing options.
+v.  Lead Capture: Customers express interest, schedule test drives, or request quotes directly.
+vi. Brochures & Manuals: Downloadable resources for various models.
+vii.Customer Feedback: Mechanism to gather valuable insights and improve the experience.
+
+Secondary Devices:
+i.AR Glasses:
+Overlay key features on physical bikes in real-time.
+Showcase performance data and simulations.
+Offer virtual customization options.
+
+ii.VR Headset Station:
+Immersive virtual tour of the bike and its features.
+Interactive exploration of different models and colors.
+
+Implementation Plan:
+Phase 1: Pilot Program (2-3 months):
+Deploy the primary device solution in 5-10 dealerships.
+Train dealership staff on device usage and customer interaction.
+Gather customer feedback and usage data.
+Pilot test AR glasses with select sales staff.
+
+Phase 2: Expansion and Refinement (3-6 months):
+Based on pilot results, refine the primary device software and user interface.
+Expand the primary device solution to additional dealerships.
+Introduce AR glasses to a wider group of sales staff in high-performing dealerships.
+Assess feasibility and customer interest in VR headset stations.
+
+Phase 3: Full-Scale Implementation (6-12 months):
+Deploy the primary device solution across all dealerships.
+Offer AR glasses to all sales staff based on budget and effectiveness.
+Implement VR headset stations in select flagship dealerships.
+Continuously monitor usage data and customer feedback for further improvements.
+
+Success Metrics:
+Increased customer satisfaction scores.
+Improved sales conversion rates.
+Reduced time spent explaining features.
+Increased customer engagement with devices.
+Positive feedback on AR/VR experiences (if implemented).
+
 ● Detailed technical explanation of the software & hardware involved in the proposed solution
+->
 ● Design of the device
 ● Cost and Scalability Analysis
 ● Product Roadmap
